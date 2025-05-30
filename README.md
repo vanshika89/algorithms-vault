@@ -60,14 +60,16 @@ Concepts: Complement lookup, early exit, constant-time set access
 
 </details>
 
-📊 Summary Table
-Problem	Approach	Time	Space	Notes
-Two Sum	Brute Force	O(n²)	O(1)	Naive, easy to write
-Two Sum	Hash Set	O(n)	O(n)	Optimal using hashing
-Merge Sort	Recursion	O(n log n)	O(n)	Divide and conquer
+# 📊 Summary Table
+| Problem    | Approach    | Time       | Space | Notes                 |
+| ---------- | ----------- | ---------- | ----- | --------------------- |
+| Two Sum    | Brute Force | O(n²)      | O(1)  | Naive, easy to write  |
+| Two Sum    | Hash Set    | O(n)       | O(n)  | Optimal using hashing |
+| Merge Sort | Recursion   | O(n log n) | O(n)  | Divide and conquer    |
 
 
-🚀 How to Use
+
+# 🚀 How to Use
 Browse folders by topic.
 
 Read the explanation before diving into code.
@@ -76,14 +78,14 @@ Try solving before looking at the answer.
 
 Fork the repo and practice on your own.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 Python 3
 
 Markdown for explanations
 
 (Optional) Jupyter Notebooks for visual breakdowns
 
-🌱 In Progress
+# 🌱 In Progress
 More problems will be added regularly under topics like:
 
 Arrays & Strings
