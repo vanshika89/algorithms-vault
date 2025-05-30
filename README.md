@@ -27,6 +27,7 @@ Each folder represents a topic. Inside each, you'll find:
 /greedy/
     └── activity_selection.py
 
+---
 ## 🧾 Example Entry: Two Sum
 
 <details>
